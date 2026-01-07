@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="Main.png" alt="Main Image" />
+
+</div>
+
 # The Long Telegram: A Technical & Design Brief
 
 **Version:** 2.9 (Polish Phase) | **Platform:** Browser (Pure HTML/CSS/JS) | **Status:** Feature Complete
