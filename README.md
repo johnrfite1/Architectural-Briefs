@@ -28,6 +28,8 @@ This repository contains high-level technical and philosophical briefs for proje
 
 * **[Singularity Tracker](./SingularityTracker/README.md)** - A real-time simulation dashboard for tracking progress toward advanced AI capability milestones.
 
+* **[Workout Tracker](./WorkoutTracker/README.md)** - A single-page workout utility with analog rest timer, set tracking, and local notes.
+
 ## Infrastructure
 
 * **[The Relay](./TheRelay/README.md)** - A lightweight, high-performance messaging service designed for reliable, auditable communication between AI agents. (Codename: Project Apollo)
