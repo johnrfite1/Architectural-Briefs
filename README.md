@@ -6,11 +6,27 @@ This repository contains high-level technical and philosophical briefs for proje
 
 * **[The Crucible](./TheCrucible/README.md)** - A methodology for conducting cognitive ensembles of AI models to forge complex, resilient, and ethically-sound systems.
 
+## Governance & Research
+
+* **[The Triumvirate System](./AIGovernanceTriumvirate/README.md)** - A verifiable, adaptive AI governance architecture with internal risk triage and external integration doctrine.
+
 ## Applications
 
 * **[Golden Seam](./GoldenSeam/README.md)** - A minimalist, AI-powered journaling sanctuary for visionOS, founded on a "Sacred Vow" of absolute, 100% on-device privacy. Features a 3D ceramic bowl interface inspired by Kintsugi.
 
 * **[The Long Telegram](./TheLongTelegram/README.md)** - A browser-based Cold War strategy game (1946-1991) exploring geopolitical decision-making through the lens of historical doctrines.
+
+## Labs
+
+* **[AI Music Lab](./AIMusicLab/README.md)** - A curated repository for AI-generated music, stems, and projects with Git LFS governance.
+
+## Utilities
+
+* **[Macro Terminal](./MacroTerminal/README.md)** - A retro CRT-styled debt cycle dashboard that visualizes deleveraging indicators.
+
+* **[Progress Tracker](./ProgressTracker/README.md)** - A static 8-week reset tracker with timeline phases and live progress stats.
+
+* **[Singularity Tracker](./SingularityTracker/README.md)** - A real-time simulation dashboard for tracking progress toward advanced AI capability milestones.
 
 ## Infrastructure
 
