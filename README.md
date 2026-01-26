@@ -22,6 +22,8 @@ This repository contains high-level technical and philosophical briefs for proje
 
 ## Utilities
 
+* **[Footprints of Money](./FootprintsOfMoney/README.md)** - A multi-timeframe trading scanner that identifies high-probability entries by tracking institutional volume patterns with automated risk gates.
+
 * **[Macro Terminal](./MacroTerminal/README.md)** - A retro CRT-styled debt cycle dashboard that visualizes deleveraging indicators.
 
 * **[Progress Tracker](./ProgressTracker/README.md)** - A static 8-week reset tracker with timeline phases and live progress stats.
