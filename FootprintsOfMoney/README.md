@@ -92,10 +92,6 @@ The system embodies a "wait for the setup" mentality. Most days produce zero sig
 
 ---
 
-## Repository
-
-**Private:** [github.com/johnrfite1/footprints-of-money](https://github.com/johnrfite1/footprints-of-money)
-
 ---
 
 *Last Updated: January 2026*
